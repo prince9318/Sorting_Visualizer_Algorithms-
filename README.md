@@ -1,2 +1,3 @@
-# Sorting_Visualizer_Algorithms-
-I developed this sorting visualizer algorithms using HTML, CSS and JavaScript.
+# Sorting_Visualizer
+
+This project is a Web Visualization tool for sorting algorithms.
